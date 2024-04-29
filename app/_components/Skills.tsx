@@ -15,7 +15,7 @@ export const Skills = () => {
           WebkitTextFillColor: 'transparent',
         }}
       >
-        J&apos;aime travaillé avec...
+        J&apos;aime travailler avec...
       </h2>
       <div className='flex flex-col items-top md:flex-row gap-4'>
         <div className='flex flex-col items-center md:items-start gap-2  md:w-1/3 '>
