@@ -22,7 +22,7 @@ export const Skills = () => {
           <FaReact size={48} className='animate-spin-slow ' />
           <h3 className='text-xl font-bold'>React</h3>
           <p className='text-left'>
-            J&apos;adore utilisé React et Next.js pour le frontend. J&apos;apprécie la flexibilité et la puissance de React pour créer des interfaces
+            J&apos;adore utiliser React et Next.js pour le frontend. J&apos;apprécie la flexibilité et la puissance de React pour créer des interfaces
             utilisateur dynamiques et réactives. J&apos;utilise également des bibliothèques telles que Zustand pour gérer l&apos;état global de mes
             applications.
           </p>

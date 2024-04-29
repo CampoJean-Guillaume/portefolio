@@ -22,7 +22,7 @@ export const SoftSkills = () => {
           <h3 className='text-xl font-bold'>Travail d&apos;équipe</h3>
           <p>
             Je sais que la collaboration et la communication efficace sont essentielles pour atteindre des objectifs communs. Je suis à l&apos;écoute des idées
-            et des opinions des autres et je sais travailler ensemble pour trouver des solutions créatives aux défis.
+            et des opinions des autres et je sais travailler avec les autres pour trouver des solutions créatives aux défis.
           </p>
         </div>
         <div className='flex flex-col items-center md:items-start gap-2 md:w-1/3'>

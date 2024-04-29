@@ -24,7 +24,7 @@ const projects = [
   },
   {
     title: 'Projet en cours',
-    description: 'Présentation à venir, basé sur le CMS O-caritatif. Site responsive et accessible. ',
+    description: 'Présentation à venir, basée sur le CMS O-caritatif. Site responsive et accessible. ',
     link: '#',
     image: '/logolivre.png',
   },
