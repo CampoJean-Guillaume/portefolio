@@ -11,6 +11,13 @@ import { FaEnvelope, FaPhoneAlt } from 'react-icons/fa';
 
 const projects = [
   {
+    title: 'Les Pieds bots',
+    description:
+      "Site vitrine pour l'association Les Pieds Bots. Le site est responsive et accessible. Il a été réalisé avec le CMS O-caritatif réécris en Next.js.",
+    link: 'https://www.lespiedsbots.org/',
+    image: '/logo.jpg',
+  },
+  {
     title: 'O-caritatif',
     description: 'O-caritatif est un CMS pour les associations caritatives. Simple et efficace, il permet de créer un site vitrine en quelques clics.',
     link: 'https://o-caritatif-deploy.vercel.app/',
@@ -21,12 +28,6 @@ const projects = [
     description: "Association fictive pour laquelle j'ai réalisé un site vitrine avec le CMS O-caritatif. Le site est responsive et accessible.",
     link: 'https://o-caritatif-devsansfrontiere.vercel.app/',
     image: '/logo_devSF.png',
-  },
-  {
-    title: 'Projet en cours',
-    description: 'Présentation à venir, basée sur le CMS O-caritatif. Site responsive et accessible. ',
-    link: '#',
-    image: '/logolivre.png',
   },
 ];
 

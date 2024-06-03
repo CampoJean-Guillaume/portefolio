@@ -2,7 +2,7 @@
 import { Section } from './Section';
 
 const data = {
-  description: `Je suis développeur web de formation fullstack en recherche de challenge. Je maîtrise Javascript, Node.js, React, etc. Je suis passionné par le développement web et je suis toujours à la recherche de nouveaux projets pour lesquels je pourrais apporter mon expertise.`,
+  description: `Je suis développeur web de formation fullstack en recherche de challenge. Je maîtrise Javascript, Node.js, React et Next.js. Je suis passionné par le développement web et je suis toujours à la recherche de nouveaux projets pour lesquels je pourrais apporter mon expertise.`,
 };
 
 export const Hero = () => {
