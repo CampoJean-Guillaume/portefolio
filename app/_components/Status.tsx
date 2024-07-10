@@ -4,10 +4,7 @@ import { Card } from '@/components/ui/card';
 import { Section } from './Section';
 
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
-import { buttonVariants } from '@/components/ui/button';
-import { cn } from '@/lib/utils';
 import Link from 'next/link';
-import { FaEnvelope, FaPhoneAlt } from 'react-icons/fa';
 
 const projects = [
   {
@@ -60,7 +57,7 @@ export const Status = () => {
             </div>
           </div>
         </Card>
-        <Card className='flex flex-col p-4 h-full gap-2'>
+        {/* <Card className='flex flex-col p-4 h-full gap-2'>
           <p>Me Contacter</p>
           <ul className='flex justify-end gap-2 py-2'>
             <Link href='tel:+33610370967' className={cn(buttonVariants({ variant: 'outline' }), 'p-1 rounded')} aria-label='Call me'>
@@ -70,7 +67,7 @@ export const Status = () => {
               <FaEnvelope size={20} />
             </Link>
           </ul>
-        </Card>
+        </Card> */}
       </div>
     </Section>
   );

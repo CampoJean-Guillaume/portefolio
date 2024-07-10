@@ -1,4 +1,5 @@
 'use client';
+import ContactForm from '@/components/ContactForm/ContactForm';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from 'react';
@@ -29,6 +30,8 @@ export default function Home() {
       </div>
       <Spacing size='sm' />
       <Status />
+      <Spacing size='sm' />
+      <ContactForm />
       <Spacing size='sm' />
       <div data-aos='zoom-in' id='hero'>
         <Skills />
