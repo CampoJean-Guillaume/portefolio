@@ -10,7 +10,8 @@ export async function POST(request: Request) {
       to: process.env.EMAIL_TO,
       subject: `Nouveau message de ${name}`,
       text: `Nom: ${name}\nEmail: ${email}\nMessage: ${message}`,
-      html: `<p><strong>Nom:</strong> ${name}</p>
+      html: `<p>jeanguillaume-campo.fr/</p>
+             <p><strong>Nom:</strong> ${name}</p>
              <p><strong>Email:</strong> ${email}</p>
              <p><strong>Message:</strong> ${message}</p>`,
     });
